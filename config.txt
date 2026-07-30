@@ -1,0 +1,14 @@
+git config --global user.name NicolasCastro08
+git config --global user.email nicolasferreia@gmail.com
+
+npx create-expo-app@latest EtecBus --template blank
+
+cd
+
+npx expo install expo-location react-native-webview
+
+npx expo start --tunnel
+
+
+SALA:
+https://github.com/3Mtec2026B
