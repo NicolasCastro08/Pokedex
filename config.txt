@@ -3,7 +3,7 @@ git config --global user.email nicolasferreia@gmail.com
 
 npx create-expo-app@latest EtecBus --template blank
 
-cd
+cd pokedex
 
 npx expo install expo-location react-native-webview
 
